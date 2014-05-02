@@ -3230,3 +3230,11 @@ th {
 .has-error .form-control-feedback {
   color: #a94442;
 }
+
+.pull-right {
+  float: left !important;
+}
+
+.pull-left {
+  float: right !important;
+}
